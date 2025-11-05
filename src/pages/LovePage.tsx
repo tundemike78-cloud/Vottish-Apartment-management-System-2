@@ -98,7 +98,7 @@ export function LovePage() {
                   Forever yours,
                 </p>
                 <p className="font-serif text-xl md:text-2xl text-rose-700 font-semibold mt-2">
-                  Jose
+                  Jide
                 </p>
               </div>
             </div>
@@ -108,7 +108,7 @@ export function LovePage() {
 
       <footer className="fixed bottom-0 left-0 right-0 py-6 text-center bg-gradient-to-t from-white/50 to-transparent backdrop-blur-sm z-20">
         <p className="font-serif text-rose-600 text-sm md:text-base">
-          Made with ❤️ by Jose, for Tolu.
+          Made with ❤️ by Jide, for Tolu.
         </p>
       </footer>
 
